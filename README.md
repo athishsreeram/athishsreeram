@@ -7,7 +7,11 @@ Hi 👋, I'm Athishsreeram
 
 [![athishsreeram](https://github-profile-trophy.vercel.app/?username=athishsreeram)](https://github.com/ryo-ma/github-profile-trophy)
 
+MyBlogPlatform
 [![athishsreeram](https://diaryblog.connectingpeopletech.com/_next/static/media/logo2.82936ace.svg)](https://diaryblog.connectingpeopletech.com/)
+
+Universe -  Digital Marketing Platform
+[![athishsreeram](https://i.ibb.co/h91KyGn/logo.png)](https://diaryblog.connectingpeopletech.com/)
 
 ### Connect with me:
 
