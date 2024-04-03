@@ -7,12 +7,12 @@ Hi 👋, I'm Athishsreeram
 
 [![athishsreeram](https://github-profile-trophy.vercel.app/?username=athishsreeram)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![athishsreeram](https://img.shields.io/twitter/follow/athishsreeram?logo=twitter&style=for-the-badge)](https://twitter.com/athishsreeram)
+[![athishsreeram](https://diaryblog.connectingpeopletech.com/_next/static/media/logo2.82936ace.svg)](https://diaryblog.connectingpeopletech.com/)
 
 ### Connect with me:
 
-[![athishsreeram]()](https://twitter.com/athishsreeram) 
-[![athishsreeram]()](https://linkedin.com/in/athishsreeram)
+[![athishsreeram](https://img.shields.io/twitter/follow/athishsreeram?logo=twitter&style=for-the-badge)](https://twitter.com/athishsreeram) 
+[![athishsreeram](https://img.shields.io/twitter/follow/athishsreeram?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/athishsreeram)
 
 ### Languages and Tools:
 
